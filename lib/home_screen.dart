@@ -14,9 +14,7 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Colors.red,
         actions: [
           IconButton(
-            onPressed: () {
-              print("Focues With Me");
-            },
+            onPressed: () {},
             icon: Icon(Icons.camera, color: Colors.white, size: 15),
           ),
         ],
