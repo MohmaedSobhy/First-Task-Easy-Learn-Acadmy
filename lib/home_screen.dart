@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
           ),
         ],
         title: Text(
-          "Hello Every One",
+          "Hello Every One To Easy Learn",
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
