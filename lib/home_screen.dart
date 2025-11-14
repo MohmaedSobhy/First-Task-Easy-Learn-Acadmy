@@ -14,7 +14,9 @@ class HomeScreen extends StatelessWidget {
         backgroundColor: Colors.red,
         actions: [
           IconButton(
-            onPressed: () {},
+            onPressed: () {
+              print("Camera");
+            },
             icon: Icon(Icons.camera, color: Colors.white, size: 15),
           ),
         ],
